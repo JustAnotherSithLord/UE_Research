@@ -1,3 +1,6 @@
+// Batman Arkham Knight
+// Credits to Sunbeam from FRF for providing an amazing table & information.
+
 Ghost                                    ( FunctionEngine.CheatManager.Ghost )
 DebugAI                                  ( FunctionEngine.CheatManager.DebugAI )
 DebugPause                               ( FunctionEngine.CheatManager.DebugPause )
