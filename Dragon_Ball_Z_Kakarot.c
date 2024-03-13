@@ -10,8 +10,8 @@ FloatProperty  /Script/Engine.CheatManager:BugItGo.X
 Function  /Script/Engine.CheatManager:BugItStringCreator
 StrProperty  /Script/Engine.CheatManager:BugItStringCreator.LocString
 StrProperty  /Script/Engine.CheatManager:BugItStringCreator.GoString
-StructProperty  /Script/Engine.CheatManager:BugItStringCreator.ViewRotation	~	ScriptStruct  /Script/CoreUObject.Rotator
-StructProperty  /Script/Engine.CheatManager:BugItStringCreator.ViewLocation	~	ScriptStruct  /Script/CoreUObject.Vector
+StructProperty  /Script/Engine.CheatManager:BugItStringCreator.ViewRotation	
+StructProperty  /Script/Engine.CheatManager:BugItStringCreator.ViewLocation	
 Function  /Script/Engine.CheatManager:ChangeSize
 FloatProperty  /Script/Engine.CheatManager:ChangeSize.F
 Function  /Script/Engine.CheatManager:CheatScript
@@ -21,7 +21,7 @@ FloatProperty  /Script/Engine.CheatManager:DamageTarget.DamageAmount
 Function  /Script/Engine.CheatManager:DebugCapsuleSweep
 Function  /Script/Engine.CheatManager:DebugCapsuleSweepCapture
 Function  /Script/Engine.CheatManager:DebugCapsuleSweepChannel
-ByteProperty  /Script/Engine.CheatManager:DebugCapsuleSweepChannel.Channel	~	Enum  /Script/Engine.ECollisionChannel
+ByteProperty  /Script/Engine.CheatManager:DebugCapsuleSweepChannel.Channel	
 Function  /Script/Engine.CheatManager:DebugCapsuleSweepClear
 Function  /Script/Engine.CheatManager:DebugCapsuleSweepComplex
 BoolProperty  /Script/Engine.CheatManager:DebugCapsuleSweepComplex.bTraceComplex
@@ -30,10 +30,10 @@ Function  /Script/Engine.CheatManager:DebugCapsuleSweepSize
 FloatProperty  /Script/Engine.CheatManager:DebugCapsuleSweepSize.Radius
 FloatProperty  /Script/Engine.CheatManager:DebugCapsuleSweepSize.HalfHeight
 Function  /Script/Engine.CheatManager:DestroyAll
-ClassProperty  /Script/Engine.CheatManager:DestroyAll.aClass	~	Class  /Script/CoreUObject.Class
+ClassProperty  /Script/Engine.CheatManager:DestroyAll.aClass
 Function  /Script/Engine.CheatManager:DestroyAllPawnsExceptTarget
 Function  /Script/Engine.CheatManager:DestroyPawns
-ClassProperty  /Script/Engine.CheatManager:DestroyPawns.aClass	~	Class  /Script/CoreUObject.Class
+ClassProperty  /Script/Engine.CheatManager:DestroyPawns.aClass	
 Function  /Script/Engine.CheatManager:DestroyServerStatReplicator
 Function  /Script/Engine.CheatManager:DestroyTarget
 Function  /Script/Engine.CheatManager:DisableDebugCamera
