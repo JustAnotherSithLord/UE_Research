@@ -1,10 +1,10 @@
-[ Index:00000B630] (Size:0x000B8) [UObject:000001E199B7D000] Function  /Script/Engine.CheatManager:BugIt
-[ Index:00000B631] (Size:0x00070) [UObject:000001E199C22460] StrProperty  /Script/Engine.CheatManager:BugIt.ScreenShotDescription
-[ Index:00000B632] (Size:0x000B8) [UObject:000001E199B7CF40] Function  /Script/Engine.CheatManager:BugItGo
-[ Index:00000B633] (Size:0x00070) [UObject:000001E199C223F0] FloatProperty  /Script/Engine.CheatManager:BugItGo.Roll
-[ Index:00000B634] (Size:0x00070) [UObject:000001E199C22380] FloatProperty  /Script/Engine.CheatManager:BugItGo.Yaw
-[ Index:00000B635] (Size:0x00070) [UObject:000001E199C22310] FloatProperty  /Script/Engine.CheatManager:BugItGo.Pitch
-[ Index:00000B636] (Size:0x00070) [UObject:000001E199C222A0] FloatProperty  /Script/Engine.CheatManager:BugItGo.Z
-[ Index:00000B637] (Size:0x00070) [UObject:000001E199C22230] FloatProperty  /Script/Engine.CheatManager:BugItGo.Y
-[ Index:00000B638] (Size:0x00070) [UObject:000001E199C221C0] FloatProperty  /Script/Engine.CheatManager:BugItGo.X
-[ Index:00000B639] (Size:0x000B8) [UObject:000001E199B7CE80] Function  /Script/Engine.CheatManager:BugItStringCreator
+Function  /Script/Engine.CheatManager:BugIt
+StrProperty  /Script/Engine.CheatManager:BugIt.ScreenShotDescription
+Function  /Script/Engine.CheatManager:BugItGo
+FloatProperty  /Script/Engine.CheatManager:BugItGo.Roll
+FloatProperty  /Script/Engine.CheatManager:BugItGo.Yaw
+FloatProperty  /Script/Engine.CheatManager:BugItGo.Pitch
+FloatProperty  /Script/Engine.CheatManager:BugItGo.Z
+FloatProperty  /Script/Engine.CheatManager:BugItGo.Y
+FloatProperty  /Script/Engine.CheatManager:BugItGo.X
+Function  /Script/Engine.CheatManager:BugItStringCreator
