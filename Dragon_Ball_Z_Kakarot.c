@@ -74,13 +74,13 @@ Function  /Script/Engine.CheatManager:TestCollisionDistance
 Function  /Script/Engine.CheatManager:ToggleAILogging
 Function  /Script/Engine.CheatManager:ToggleDebugCamera
 Function  /Script/Engine.CheatManager:ToggleNuccDynDebug
-[ Index:00000B67C] (Size:0x000B8) [UObject:000001E199B7FDC0] Function  /Script/Engine.CheatManager:ToggleNuccDynEnable
-[ Index:00000B67D] (Size:0x000B8) [UObject:000001E199B7FD00] Function  /Script/Engine.CheatManager:ToggleServerStatReplicatorClientOverwrite
-[ Index:00000B67E] (Size:0x000B8) [UObject:000001E199B7FC40] Function  /Script/Engine.CheatManager:ToggleServerStatReplicatorUpdateStatNet
-[ Index:00000B67F] (Size:0x000B8) [UObject:000001E199B7FB80] Function  /Script/Engine.CheatManager:UpdateSafeArea
-[ Index:00000B680] (Size:0x000B8) [UObject:000001E199B7FAC0] Function  /Script/Engine.CheatManager:ViewActor
-[ Index:00000B681] (Size:0x00070) [UObject:000001E199C23810] NameProperty  /Script/Engine.CheatManager:ViewActor.ActorName
-[ Index:00000B682] (Size:0x000B8) [UObject:000001E199B7FA00] Function  /Script/Engine.CheatManager:ViewClass
+Function  /Script/Engine.CheatManager:ToggleNuccDynEnable
+Function  /Script/Engine.CheatManager:ToggleServerStatReplicatorClientOverwrite
+Function  /Script/Engine.CheatManager:ToggleServerStatReplicatorUpdateStatNet
+Function  /Script/Engine.CheatManager:UpdateSafeArea
+Function  /Script/Engine.CheatManager:ViewActor
+NameProperty  /Script/Engine.CheatManager:ViewActor.ActorName
+Function  /Script/Engine.CheatManager:ViewClass
 [ Index:00000B683] (Size:0x00080) [UObject:000001E199C16E00] ClassProperty  /Script/Engine.CheatManager:ViewClass.DesiredClass	~	Class  /Script/CoreUObject.Class
 [ Index:00000B684] (Size:0x000B8) [UObject:000001E199B7F940] Function  /Script/Engine.CheatManager:ViewPlayer
 [ Index:00000B685] (Size:0x00070) [UObject:000001E199C237A0] StrProperty  /Script/Engine.CheatManager:ViewPlayer.S
