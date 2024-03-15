@@ -62,7 +62,7 @@ Function  /Script/Engine.CheatManager:SetMouseSensitivityToDefault
 Function  /Script/Engine.CheatManager:SetWorldOrigin
 Function  /Script/Engine.CheatManager:Slomo
 FloatProperty  /Script/Engine.CheatManager:Slomo.NewTimeDilation
-[ Index:00000B670] (Size:0x000B8) [UObject:000001E199B7E380] Function  /Script/Engine.CheatManager:SpawnServerStatReplicator
-[ Index:00000B671] (Size:0x000B8) [UObject:000001E199B7E2C0] Function  /Script/Engine.CheatManager:StreamLevelIn
-[ Index:00000B672] (Size:0x00070) [UObject:000001E199C23960] NameProperty  /Script/Engine.CheatManager:StreamLevelIn.PackageName
-[ Index:00000B673] (Size:0x000B8) [UObject:000001E199B7E200] Function  /Script/Engine.CheatManager:StreamLevelOut
+Function  /Script/Engine.CheatManager:SpawnServerStatReplicator
+Function  /Script/Engine.CheatManager:StreamLevelIn
+NameProperty  /Script/Engine.CheatManager:StreamLevelIn.PackageName
+Function  /Script/Engine.CheatManager:StreamLevelOut
