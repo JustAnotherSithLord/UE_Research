@@ -55,13 +55,13 @@ StrProperty  /Script/Engine.CheatManager:NuccDynDrawCollision.Command
 Function  /Script/Engine.CheatManager:OnlyLoadLevel
 NameProperty  /Script/Engine.CheatManager:OnlyLoadLevel.PackageName
 Function  /Script/Engine.CheatManager:PlayersOnly
-[ Index:00000B669] (Size:0x000B8) [UObject:000001E199B7E800] Function  /Script/Engine.CheatManager:ReceiveEndPlay
-[ Index:00000B66A] (Size:0x000B8) [UObject:000001E199B7E740] Function  /Script/Engine.CheatManager:ReceiveInitCheatManager
-[ Index:00000B66B] (Size:0x000B8) [UObject:000001E199B7E680] Function  /Script/Engine.CheatManager:ServerToggleAILogging
-[ Index:00000B66C] (Size:0x000B8) [UObject:000001E199B7E5C0] Function  /Script/Engine.CheatManager:SetMouseSensitivityToDefault
-[ Index:00000B66D] (Size:0x000B8) [UObject:000001E199B7E500] Function  /Script/Engine.CheatManager:SetWorldOrigin
-[ Index:00000B66E] (Size:0x000B8) [UObject:000001E199B7E440] Function  /Script/Engine.CheatManager:Slomo
-[ Index:00000B66F] (Size:0x00070) [UObject:000001E199C21CF0] FloatProperty  /Script/Engine.CheatManager:Slomo.NewTimeDilation
+Function  /Script/Engine.CheatManager:ReceiveEndPlay
+Function  /Script/Engine.CheatManager:ReceiveInitCheatManager
+Function  /Script/Engine.CheatManager:ServerToggleAILogging
+Function  /Script/Engine.CheatManager:SetMouseSensitivityToDefault
+Function  /Script/Engine.CheatManager:SetWorldOrigin
+Function  /Script/Engine.CheatManager:Slomo
+FloatProperty  /Script/Engine.CheatManager:Slomo.NewTimeDilation
 [ Index:00000B670] (Size:0x000B8) [UObject:000001E199B7E380] Function  /Script/Engine.CheatManager:SpawnServerStatReplicator
 [ Index:00000B671] (Size:0x000B8) [UObject:000001E199B7E2C0] Function  /Script/Engine.CheatManager:StreamLevelIn
 [ Index:00000B672] (Size:0x00070) [UObject:000001E199C23960] NameProperty  /Script/Engine.CheatManager:StreamLevelIn.PackageName
