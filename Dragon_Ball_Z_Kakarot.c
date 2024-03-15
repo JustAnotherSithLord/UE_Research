@@ -81,15 +81,15 @@ Function  /Script/Engine.CheatManager:UpdateSafeArea
 Function  /Script/Engine.CheatManager:ViewActor
 NameProperty  /Script/Engine.CheatManager:ViewActor.ActorName
 Function  /Script/Engine.CheatManager:ViewClass
-[ Index:00000B683] (Size:0x00080) [UObject:000001E199C16E00] ClassProperty  /Script/Engine.CheatManager:ViewClass.DesiredClass	~	Class  /Script/CoreUObject.Class
-[ Index:00000B684] (Size:0x000B8) [UObject:000001E199B7F940] Function  /Script/Engine.CheatManager:ViewPlayer
-[ Index:00000B685] (Size:0x00070) [UObject:000001E199C237A0] StrProperty  /Script/Engine.CheatManager:ViewPlayer.S
-[ Index:00000B686] (Size:0x000B8) [UObject:000001E199B7F880] Function  /Script/Engine.CheatManager:ViewSelf
-[ Index:00000B687] (Size:0x000B8) [UObject:000001E199B7F7C0] Function  /Script/Engine.CheatManager:Walk
-[ Index:00000B688] (Size:0x00080) [UObject:000001E199C16E80] ClassProperty  /Script/Engine.CheatManager:DebugCameraControllerClass	~	Class  /Script/CoreUObject.Class
-[ Index:00000B689] (Size:0x00078) [UObject:000001E199C16D80] ObjectProperty  /Script/Engine.CheatManager:DebugCameraControllerRef	~	Class  /Script/Engine.DebugCameraController
-[ Index:00000B68A] (Size:0x000B8) [UObject:000001E199C41840] Function  /Script/AT.ATCheatManager:ATActiveSubLevel
-[ Index:00000B68B] (Size:0x00070) [UObject:000001E199C23730] NameProperty  /Script/AT.ATCheatManager:ATActiveSubLevel.LevelName
+ClassProperty  /Script/Engine.CheatManager:ViewClass.DesiredClass	~	Class  /Script/CoreUObject.Class
+Function  /Script/Engine.CheatManager:ViewPlayer
+StrProperty  /Script/Engine.CheatManager:ViewPlayer.S
+Function  /Script/Engine.CheatManager:ViewSelf
+Function  /Script/Engine.CheatManager:Walk
+ClassProperty  /Script/Engine.CheatManager:DebugCameraControllerClass	~	Class  /Script/CoreUObject.Class
+ObjectProperty  /Script/Engine.CheatManager:DebugCameraControllerRef	~	Class  /Script/Engine.DebugCameraController
+Function  /Script/AT.ATCheatManager:ATActiveSubLevel
+NameProperty  /Script/AT.ATCheatManager:ATActiveSubLevel.LevelName
 [ Index:00000B68C] (Size:0x000B8) [UObject:000001E199C41780] Function  /Script/AT.ATCheatManager:ATAsyncLoadCharacter
 [ Index:00000B68D] (Size:0x00070) [UObject:000001E199C236C0] NameProperty  /Script/AT.ATCheatManager:ATAsyncLoadCharacter.MasterId
 [ Index:00000B68E] (Size:0x000B8) [UObject:000001E199C416C0] Function  /Script/AT.ATCheatManager:ATAttachPhotonForCharacter
