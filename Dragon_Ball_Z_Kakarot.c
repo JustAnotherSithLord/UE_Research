@@ -90,11 +90,11 @@ ClassProperty  /Script/Engine.CheatManager:DebugCameraControllerClass	~	Class  /
 ObjectProperty  /Script/Engine.CheatManager:DebugCameraControllerRef	~	Class  /Script/Engine.DebugCameraController
 Function  /Script/AT.ATCheatManager:ATActiveSubLevel
 NameProperty  /Script/AT.ATCheatManager:ATActiveSubLevel.LevelName
-[ Index:00000B68C] (Size:0x000B8) [UObject:000001E199C41780] Function  /Script/AT.ATCheatManager:ATAsyncLoadCharacter
-[ Index:00000B68D] (Size:0x00070) [UObject:000001E199C236C0] NameProperty  /Script/AT.ATCheatManager:ATAsyncLoadCharacter.MasterId
-[ Index:00000B68E] (Size:0x000B8) [UObject:000001E199C416C0] Function  /Script/AT.ATCheatManager:ATAttachPhotonForCharacter
-[ Index:00000B68F] (Size:0x000B8) [UObject:000001E199C41600] Function  /Script/AT.ATCheatManager:ATBaseballGameBattlePower
-[ Index:00000B690] (Size:0x00070) [UObject:000001E199C23650] DoubleProperty  /Script/AT.ATCheatManager:ATBaseballGameBattlePower.power
+Function  /Script/AT.ATCheatManager:ATAsyncLoadCharacter
+NameProperty  /Script/AT.ATCheatManager:ATAsyncLoadCharacter.MasterId
+Function  /Script/AT.ATCheatManager:ATAttachPhotonForCharacter
+Function  /Script/AT.ATCheatManager:ATBaseballGameBattlePower
+DoubleProperty  /Script/AT.ATCheatManager:ATBaseballGameBattlePower.power
 [ Index:00000B691] (Size:0x000B8) [UObject:000001E199C41540] Function  /Script/AT.ATCheatManager:ATBattleDemoStart
 [ Index:00000B692] (Size:0x00070) [UObject:000001E199C235E0] NameProperty  /Script/AT.ATCheatManager:ATBattleDemoStart.InDemoId
 [ Index:00000B693] (Size:0x000B8) [UObject:000001E199C41480] Function  /Script/AT.ATCheatManager:ATChangePersistent
