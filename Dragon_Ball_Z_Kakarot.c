@@ -50,11 +50,11 @@ Function  /Script/Engine.CheatManager:Ghost
 Function  /Script/Engine.CheatManager:God
 Function  /Script/Engine.CheatManager:InvertMouse
 Function  /Script/Engine.CheatManager:LogLoc
-[ Index:00000B664] (Size:0x000B8) [UObject:000001E199B7EA40] Function  /Script/Engine.CheatManager:NuccDynDrawCollision
-[ Index:00000B665] (Size:0x00070) [UObject:000001E199C21DD0] StrProperty  /Script/Engine.CheatManager:NuccDynDrawCollision.Command
-[ Index:00000B666] (Size:0x000B8) [UObject:000001E199B7E980] Function  /Script/Engine.CheatManager:OnlyLoadLevel
-[ Index:00000B667] (Size:0x00070) [UObject:000001E199C21D60] NameProperty  /Script/Engine.CheatManager:OnlyLoadLevel.PackageName
-[ Index:00000B668] (Size:0x000B8) [UObject:000001E199B7E8C0] Function  /Script/Engine.CheatManager:PlayersOnly
+Function  /Script/Engine.CheatManager:NuccDynDrawCollision
+StrProperty  /Script/Engine.CheatManager:NuccDynDrawCollision.Command
+Function  /Script/Engine.CheatManager:OnlyLoadLevel
+NameProperty  /Script/Engine.CheatManager:OnlyLoadLevel.PackageName
+Function  /Script/Engine.CheatManager:PlayersOnly
 [ Index:00000B669] (Size:0x000B8) [UObject:000001E199B7E800] Function  /Script/Engine.CheatManager:ReceiveEndPlay
 [ Index:00000B66A] (Size:0x000B8) [UObject:000001E199B7E740] Function  /Script/Engine.CheatManager:ReceiveInitCheatManager
 [ Index:00000B66B] (Size:0x000B8) [UObject:000001E199B7E680] Function  /Script/Engine.CheatManager:ServerToggleAILogging
