@@ -40,11 +40,11 @@ Function  /Script/Engine.CheatManager:DisableDebugCamera
 Function  /Script/Engine.CheatManager:DumpChatState
 Function  /Script/Engine.CheatManager:DumpOnlineSessionState
 Function  /Script/Engine.CheatManager:DumpPartyState
-[ Index:00000B65A] (Size:0x000B8) [UObject:000001E199B7F100] Function  /Script/Engine.CheatManager:DumpVoiceMutingState
-[ Index:00000B65B] (Size:0x000B8) [UObject:000001E199B7F040] Function  /Script/Engine.CheatManager:EnableDebugCamera
-[ Index:00000B65C] (Size:0x000B8) [UObject:000001E199B7EF80] Function  /Script/Engine.CheatManager:FlushLog
-[ Index:00000B65D] (Size:0x000B8) [UObject:000001E199B7EEC0] Function  /Script/Engine.CheatManager:Fly
-[ Index:00000B65E] (Size:0x000B8) [UObject:000001E199B7EE00] Function  /Script/Engine.CheatManager:FreezeFrame
+Function  /Script/Engine.CheatManager:DumpVoiceMutingState
+Function  /Script/Engine.CheatManager:EnableDebugCamera
+Function  /Script/Engine.CheatManager:FlushLog
+Function  /Script/Engine.CheatManager:Fly
+Function  /Script/Engine.CheatManager:FreezeFrame
 [ Index:00000B65F] (Size:0x00070) [UObject:000001E199C21E40] FloatProperty  /Script/Engine.CheatManager:FreezeFrame.Delay
 [ Index:00000B660] (Size:0x000B8) [UObject:000001E199B7ED40] Function  /Script/Engine.CheatManager:Ghost
 [ Index:00000B661] (Size:0x000B8) [UObject:000001E199B7EC80] Function  /Script/Engine.CheatManager:God
