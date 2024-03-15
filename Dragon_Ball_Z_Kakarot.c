@@ -45,11 +45,11 @@ Function  /Script/Engine.CheatManager:EnableDebugCamera
 Function  /Script/Engine.CheatManager:FlushLog
 Function  /Script/Engine.CheatManager:Fly
 Function  /Script/Engine.CheatManager:FreezeFrame
-[ Index:00000B65F] (Size:0x00070) [UObject:000001E199C21E40] FloatProperty  /Script/Engine.CheatManager:FreezeFrame.Delay
-[ Index:00000B660] (Size:0x000B8) [UObject:000001E199B7ED40] Function  /Script/Engine.CheatManager:Ghost
-[ Index:00000B661] (Size:0x000B8) [UObject:000001E199B7EC80] Function  /Script/Engine.CheatManager:God
-[ Index:00000B662] (Size:0x000B8) [UObject:000001E199B7EBC0] Function  /Script/Engine.CheatManager:InvertMouse
-[ Index:00000B663] (Size:0x000B8) [UObject:000001E199B7EB00] Function  /Script/Engine.CheatManager:LogLoc
+FloatProperty  /Script/Engine.CheatManager:FreezeFrame.Delay
+Function  /Script/Engine.CheatManager:Ghost
+Function  /Script/Engine.CheatManager:God
+Function  /Script/Engine.CheatManager:InvertMouse
+Function  /Script/Engine.CheatManager:LogLoc
 [ Index:00000B664] (Size:0x000B8) [UObject:000001E199B7EA40] Function  /Script/Engine.CheatManager:NuccDynDrawCollision
 [ Index:00000B665] (Size:0x00070) [UObject:000001E199C21DD0] StrProperty  /Script/Engine.CheatManager:NuccDynDrawCollision.Command
 [ Index:00000B666] (Size:0x000B8) [UObject:000001E199B7E980] Function  /Script/Engine.CheatManager:OnlyLoadLevel
