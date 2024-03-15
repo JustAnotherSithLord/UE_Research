@@ -95,6 +95,6 @@ NameProperty  /Script/AT.ATCheatManager:ATAsyncLoadCharacter.MasterId
 Function  /Script/AT.ATCheatManager:ATAttachPhotonForCharacter
 Function  /Script/AT.ATCheatManager:ATBaseballGameBattlePower
 DoubleProperty  /Script/AT.ATCheatManager:ATBaseballGameBattlePower.power
-[ Index:00000B691] (Size:0x000B8) [UObject:000001E199C41540] Function  /Script/AT.ATCheatManager:ATBattleDemoStart
-[ Index:00000B692] (Size:0x00070) [UObject:000001E199C235E0] NameProperty  /Script/AT.ATCheatManager:ATBattleDemoStart.InDemoId
-[ Index:00000B693] (Size:0x000B8) [UObject:000001E199C41480] Function  /Script/AT.ATCheatManager:ATChangePersistent
+Function  /Script/AT.ATCheatManager:ATBattleDemoStart
+NameProperty  /Script/AT.ATCheatManager:ATBattleDemoStart.InDemoId
+Function  /Script/AT.ATCheatManager:ATChangePersistent
