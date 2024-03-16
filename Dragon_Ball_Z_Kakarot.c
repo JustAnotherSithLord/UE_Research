@@ -98,3 +98,28 @@ DoubleProperty  /Script/AT.ATCheatManager:ATBaseballGameBattlePower.power
 Function  /Script/AT.ATCheatManager:ATBattleDemoStart
 NameProperty  /Script/AT.ATCheatManager:ATBattleDemoStart.InDemoId
 Function  /Script/AT.ATCheatManager:ATChangePersistent
+[ Index:00000B694] (Size:0x00070) [UObject:000001E199C23570] NameProperty  /Script/AT.ATCheatManager:ATChangePersistent.LevelName
+[ Index:00000B695] (Size:0x000B8) [UObject:000001E199C413C0] Function  /Script/AT.ATCheatManager:ATDeactiveSubLevel
+[ Index:00000B696] (Size:0x00070) [UObject:000001E199C23500] NameProperty  /Script/AT.ATCheatManager:ATDeactiveSubLevel.LevelName
+[ Index:00000B697] (Size:0x000B8) [UObject:000001E199C41300] Function  /Script/AT.ATCheatManager:ATDebugAddExp
+[ Index:00000B698] (Size:0x00078) [UObject:000001E199C16D00] ByteProperty  /Script/AT.ATCheatManager:ATDebugAddExp.PartyIndex
+[ Index:00000B699] (Size:0x00070) [UObject:000001E199C23490] IntProperty  /Script/AT.ATCheatManager:ATDebugAddExp.Exp
+[ Index:00000B69A] (Size:0x000B8) [UObject:000001E199C41240] Function  /Script/AT.ATCheatManager:ATDebugAddMoney
+[ Index:00000B69B] (Size:0x00070) [UObject:000001E199C23420] IntProperty  /Script/AT.ATCheatManager:ATDebugAddMoney.Value
+[ Index:00000B69C] (Size:0x000B8) [UObject:000001E199C41180] Function  /Script/AT.ATCheatManager:ATDebugAddPartyExp
+[ Index:00000B69D] (Size:0x00070) [UObject:000001E199C233B0] IntProperty  /Script/AT.ATCheatManager:ATDebugAddPartyExp.Exp
+[ Index:00000B69E] (Size:0x000B8) [UObject:000001E199C410C0] Function  /Script/AT.ATCheatManager:ATDebugAddQuestCompletedCount
+[ Index:00000B69F] (Size:0x00070) [UObject:000001E199C23340] IntProperty  /Script/AT.ATCheatManager:ATDebugAddQuestCompletedCount.Count
+[ Index:00000B6A0] (Size:0x00070) [UObject:000001E199C232D0] NameProperty  /Script/AT.ATCheatManager:ATDebugAddQuestCompletedCount.QuestId
+[ Index:00000B6A1] (Size:0x000B8) [UObject:000001E199C41000] Function  /Script/AT.ATCheatManager:ATDebugAddQuestNavigateIcon
+[ Index:00000B6A2] (Size:0x00070) [UObject:000001E199C23260] NameProperty  /Script/AT.ATCheatManager:ATDebugAddQuestNavigateIcon.ActorName
+[ Index:00000B6A3] (Size:0x00070) [UObject:000001E199C231F0] NameProperty  /Script/AT.ATCheatManager:ATDebugAddQuestNavigateIcon.QuestId
+[ Index:00000B6A4] (Size:0x000B8) [UObject:000001E199C40F40] Function  /Script/AT.ATCheatManager:ATDebugAddStateIcon
+[ Index:00000B6A5] (Size:0x00070) [UObject:000001E199C23180] FloatProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon.InTime
+[ Index:00000B6A6] (Size:0x00070) [UObject:000001E199C23110] IntProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon.InType
+[ Index:00000B6A7] (Size:0x00078) [UObject:000001E199C16C80] ByteProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon.inTarget
+[ Index:00000B6A8] (Size:0x000B8) [UObject:000001E199C40E80] Function  /Script/AT.ATCheatManager:ATDebugAddStateIcon3
+[ Index:00000B6A9] (Size:0x00070) [UObject:000001E199C230A0] FloatProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.InTime
+[ Index:00000B6AA] (Size:0x00070) [UObject:000001E199C23030] IntProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.InType_3
+[ Index:00000B6AB] (Size:0x00070) [UObject:000001E199C22FC0] IntProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.InType_2
+[ Index:00000B6AC] (Size:0x00070) [UObject:000001E199C22F50] IntProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.InType_1
