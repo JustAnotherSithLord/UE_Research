@@ -98,12 +98,12 @@ DoubleProperty  /Script/AT.ATCheatManager:ATBaseballGameBattlePower.power
 Function  /Script/AT.ATCheatManager:ATBattleDemoStart
 NameProperty  /Script/AT.ATCheatManager:ATBattleDemoStart.InDemoId
 Function  /Script/AT.ATCheatManager:ATChangePersistent
-[ Index:00000B694] (Size:0x00070) [UObject:000001E199C23570] NameProperty  /Script/AT.ATCheatManager:ATChangePersistent.LevelName
-[ Index:00000B695] (Size:0x000B8) [UObject:000001E199C413C0] Function  /Script/AT.ATCheatManager:ATDeactiveSubLevel
-[ Index:00000B696] (Size:0x00070) [UObject:000001E199C23500] NameProperty  /Script/AT.ATCheatManager:ATDeactiveSubLevel.LevelName
-[ Index:00000B697] (Size:0x000B8) [UObject:000001E199C41300] Function  /Script/AT.ATCheatManager:ATDebugAddExp
-[ Index:00000B698] (Size:0x00078) [UObject:000001E199C16D00] ByteProperty  /Script/AT.ATCheatManager:ATDebugAddExp.PartyIndex
-[ Index:00000B699] (Size:0x00070) [UObject:000001E199C23490] IntProperty  /Script/AT.ATCheatManager:ATDebugAddExp.Exp
+NameProperty  /Script/AT.ATCheatManager:ATChangePersistent.LevelName
+Function  /Script/AT.ATCheatManager:ATDeactiveSubLevel
+NameProperty  /Script/AT.ATCheatManager:ATDeactiveSubLevel.LevelName
+Function  /Script/AT.ATCheatManager:ATDebugAddExp
+ByteProperty  /Script/AT.ATCheatManager:ATDebugAddExp.PartyIndex
+IntProperty  /Script/AT.ATCheatManager:ATDebugAddExp.Exp
 [ Index:00000B69A] (Size:0x000B8) [UObject:000001E199C41240] Function  /Script/AT.ATCheatManager:ATDebugAddMoney
 [ Index:00000B69B] (Size:0x00070) [UObject:000001E199C23420] IntProperty  /Script/AT.ATCheatManager:ATDebugAddMoney.Value
 [ Index:00000B69C] (Size:0x000B8) [UObject:000001E199C41180] Function  /Script/AT.ATCheatManager:ATDebugAddPartyExp
