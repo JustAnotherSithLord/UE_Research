@@ -128,3 +128,8 @@ DebugCameraDown                          ( FunctionBmGame.RCheatManager.DebugCam
 StopDebugCameraMovement                  ( FunctionBmGame.RCheatManager.StopDebugCameraMovement )
 DebugCameraUp                            ( FunctionBmGame.RCheatManager.DebugCameraUp )
 DebugCameraLeft                          ( FunctionBmGame.RCheatManager.DebugCameraLeft )
+DebugCameraRight                         ( FunctionBmGame.RCheatManager.DebugCameraRight )
+DebugCameraForward                       ( FunctionBmGame.RCheatManager.DebugCameraForward )
+DebugCameraBack                          ( FunctionBmGame.RCheatManager.DebugCameraBack )
+DebugCameraZoomIn                        ( FunctionBmGame.RCheatManager.DebugCameraZoomIn )
+DebugCameraZoomOut                       ( FunctionBmGame.RCheatManager.DebugCameraZoomOut )
