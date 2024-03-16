@@ -104,13 +104,13 @@ NameProperty  /Script/AT.ATCheatManager:ATDeactiveSubLevel.LevelName
 Function  /Script/AT.ATCheatManager:ATDebugAddExp
 ByteProperty  /Script/AT.ATCheatManager:ATDebugAddExp.PartyIndex
 IntProperty  /Script/AT.ATCheatManager:ATDebugAddExp.Exp
-[ Index:00000B69A] (Size:0x000B8) [UObject:000001E199C41240] Function  /Script/AT.ATCheatManager:ATDebugAddMoney
-[ Index:00000B69B] (Size:0x00070) [UObject:000001E199C23420] IntProperty  /Script/AT.ATCheatManager:ATDebugAddMoney.Value
-[ Index:00000B69C] (Size:0x000B8) [UObject:000001E199C41180] Function  /Script/AT.ATCheatManager:ATDebugAddPartyExp
-[ Index:00000B69D] (Size:0x00070) [UObject:000001E199C233B0] IntProperty  /Script/AT.ATCheatManager:ATDebugAddPartyExp.Exp
-[ Index:00000B69E] (Size:0x000B8) [UObject:000001E199C410C0] Function  /Script/AT.ATCheatManager:ATDebugAddQuestCompletedCount
-[ Index:00000B69F] (Size:0x00070) [UObject:000001E199C23340] IntProperty  /Script/AT.ATCheatManager:ATDebugAddQuestCompletedCount.Count
-[ Index:00000B6A0] (Size:0x00070) [UObject:000001E199C232D0] NameProperty  /Script/AT.ATCheatManager:ATDebugAddQuestCompletedCount.QuestId
+Function  /Script/AT.ATCheatManager:ATDebugAddMoney
+IntProperty  /Script/AT.ATCheatManager:ATDebugAddMoney.Value
+Function  /Script/AT.ATCheatManager:ATDebugAddPartyExp
+IntProperty  /Script/AT.ATCheatManager:ATDebugAddPartyExp.Exp
+Function  /Script/AT.ATCheatManager:ATDebugAddQuestCompletedCount
+IntProperty  /Script/AT.ATCheatManager:ATDebugAddQuestCompletedCount.Count
+NameProperty  /Script/AT.ATCheatManager:ATDebugAddQuestCompletedCount.QuestId
 [ Index:00000B6A1] (Size:0x000B8) [UObject:000001E199C41000] Function  /Script/AT.ATCheatManager:ATDebugAddQuestNavigateIcon
 [ Index:00000B6A2] (Size:0x00070) [UObject:000001E199C23260] NameProperty  /Script/AT.ATCheatManager:ATDebugAddQuestNavigateIcon.ActorName
 [ Index:00000B6A3] (Size:0x00070) [UObject:000001E199C231F0] NameProperty  /Script/AT.ATCheatManager:ATDebugAddQuestNavigateIcon.QuestId
