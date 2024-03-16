@@ -1,3 +1,5 @@
+// Credits to the team from GH for the amazing tools & tutorials that helped make this list possible.
+
 Function  /Script/Engine.CheatManager:BugIt
 StrProperty  /Script/Engine.CheatManager:BugIt.ScreenShotDescription
 Function  /Script/Engine.CheatManager:BugItGo
@@ -120,6 +122,6 @@ IntProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon.InType
 ByteProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon.inTarget
 Function  /Script/AT.ATCheatManager:ATDebugAddStateIcon3
 FloatProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.InTime
-[ Index:00000B6AA] (Size:0x00070) [UObject:000001E199C23030] IntProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.InType_3
-[ Index:00000B6AB] (Size:0x00070) [UObject:000001E199C22FC0] IntProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.InType_2
-[ Index:00000B6AC] (Size:0x00070) [UObject:000001E199C22F50] IntProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.InType_1
+IntProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.InType_3
+IntProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.InType_2
+IntProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.InType_1
