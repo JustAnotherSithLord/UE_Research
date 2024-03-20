@@ -171,3 +171,8 @@ UpgradeEquipmentMenu                     ( FunctionBmGame.RCheatManager.UpgradeE
 DebugRemoteEvent                         ( FunctionBmGame.RCheatManager.DebugRemoteEvent )
 DebugSharedFlagSet                       ( FunctionBmGame.RCheatManager.DebugSharedFlagSet )
 DebugSharedFlagGet                       ( FunctionBmGame.RCheatManager.DebugSharedFlagGet )
+DebugGlobalFlagSet                       ( FunctionBmGame.RCheatManager.DebugGlobalFlagSet )
+DebugGlobalFlagGet                       ( FunctionBmGame.RCheatManager.DebugGlobalFlagGet )
+DebugGiveArmour                          ( FunctionBmGame.RCheatManager.DebugGiveArmour )
+DebugRemoveArmour                        ( FunctionBmGame.RCheatManager.DebugRemoveArmour )
+InfiniteGadgets                          ( FunctionBmGame.RCheatManager.InfiniteGadgets )
