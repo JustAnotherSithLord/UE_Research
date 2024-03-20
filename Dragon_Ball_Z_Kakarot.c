@@ -125,9 +125,9 @@ FloatProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.InTime
 IntProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.InType_3
 IntProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.InType_2
 IntProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.InType_1
-[ Index:00000B6AD] (Size:0x00078) [UObject:000001E199C16C00] ByteProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.inTarget
-[ Index:00000B6AE] (Size:0x000B8) [UObject:000001E199C40DC0] Function  /Script/AT.ATCheatManager:ATDebugAddZOrb
-[ Index:00000B6AF] (Size:0x00070) [UObject:000001E199C22EE0] StrProperty  /Script/AT.ATCheatManager:ATDebugAddZOrb.Type
+ByteProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.inTarget
+Function  /Script/AT.ATCheatManager:ATDebugAddZOrb
+StrProperty  /Script/AT.ATCheatManager:ATDebugAddZOrb.Type
 [ Index:00000B6B0] (Size:0x00070) [UObject:000001E199C22E70] IntProperty  /Script/AT.ATCheatManager:ATDebugAddZOrb.Num
 [ Index:00000B6B1] (Size:0x000B8) [UObject:000001E199C40D00] Function  /Script/AT.ATCheatManager:ATDebugAIActive
 [ Index:00000B6B2] (Size:0x000B8) [UObject:000001E199C40C40] Function  /Script/AT.ATCheatManager:ATDebugAndroidAssaultAreaActivate
