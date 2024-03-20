@@ -125,3 +125,24 @@ FloatProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.InTime
 IntProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.InType_3
 IntProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.InType_2
 IntProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.InType_1
+[ Index:00000B6AD] (Size:0x00078) [UObject:000001E199C16C00] ByteProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.inTarget
+[ Index:00000B6AE] (Size:0x000B8) [UObject:000001E199C40DC0] Function  /Script/AT.ATCheatManager:ATDebugAddZOrb
+[ Index:00000B6AF] (Size:0x00070) [UObject:000001E199C22EE0] StrProperty  /Script/AT.ATCheatManager:ATDebugAddZOrb.Type
+[ Index:00000B6B0] (Size:0x00070) [UObject:000001E199C22E70] IntProperty  /Script/AT.ATCheatManager:ATDebugAddZOrb.Num
+[ Index:00000B6B1] (Size:0x000B8) [UObject:000001E199C40D00] Function  /Script/AT.ATCheatManager:ATDebugAIActive
+[ Index:00000B6B2] (Size:0x000B8) [UObject:000001E199C40C40] Function  /Script/AT.ATCheatManager:ATDebugAndroidAssaultAreaActivate
+[ Index:00000B6B3] (Size:0x00070) [UObject:000001E199C22E00] NameProperty  /Script/AT.ATCheatManager:ATDebugAndroidAssaultAreaActivate.InName
+[ Index:00000B6B4] (Size:0x000B8) [UObject:000001E199C40B80] Function  /Script/AT.ATCheatManager:ATDebugAndroidAssaultAreaDeactivate
+[ Index:00000B6B5] (Size:0x00070) [UObject:000001E199C22D90] NameProperty  /Script/AT.ATCheatManager:ATDebugAndroidAssaultAreaDeactivate.InName
+[ Index:00000B6B6] (Size:0x000B8) [UObject:000001E199C40AC0] Function  /Script/AT.ATCheatManager:ATDebugAndroidAssaultFinishDemoPointCheck
+[ Index:00000B6B7] (Size:0x00070) [UObject:000001E199C22D20] FloatProperty  /Script/AT.ATCheatManager:ATDebugAndroidAssaultFinishDemoPointCheck.DrawTime
+[ Index:00000B6B8] (Size:0x00078) [UObject:000001E199C16A00] BoolProperty  /Script/AT.ATCheatManager:ATDebugAndroidAssaultFinishDemoPointCheck.bErrorOnly
+[ Index:00000B6B9] (Size:0x000B8) [UObject:000001E199C40A00] Function  /Script/AT.ATCheatManager:ATDebugAreaChangeTrainingEnd
+[ Index:00000B6BA] (Size:0x000B8) [UObject:000001E199C40940] Function  /Script/AT.ATCheatManager:ATDebugAreaChangeTrainingForceOpenItem
+[ Index:00000B6BB] (Size:0x00078) [UObject:000001E199C16980] BoolProperty  /Script/AT.ATCheatManager:ATDebugAreaChangeTrainingForceOpenItem.IsActive
+[ Index:00000B6BC] (Size:0x000B8) [UObject:000001E199C40880] Function  /Script/AT.ATCheatManager:ATDebugAtrociousBegin
+[ Index:00000B6BD] (Size:0x000B8) [UObject:000001E199C407C0] Function  /Script/AT.ATCheatManager:ATDebugAtrociousComplete
+[ Index:00000B6BE] (Size:0x00078) [UObject:000001E199C16900] ByteProperty  /Script/AT.ATCheatManager:ATDebugAtrociousComplete.InPhase
+[ Index:00000B6BF] (Size:0x00070) [UObject:000001E199C22CB0] NameProperty  /Script/AT.ATCheatManager:ATDebugAtrociousComplete.inLevelName
+[ Index:00000B6C0] (Size:0x000B8) [UObject:000001E199C40700] Function  /Script/AT.ATCheatManager:ATDebugBannedTest
+[ Index:00000B6C1] (Size:0x00070) [UObject:000001E199C22C40] NameProperty  /Script/AT.ATCheatManager:ATDebugBannedTest.InSkill
