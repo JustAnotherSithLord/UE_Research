@@ -128,10 +128,10 @@ IntProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.InType_1
 ByteProperty  /Script/AT.ATCheatManager:ATDebugAddStateIcon3.inTarget
 Function  /Script/AT.ATCheatManager:ATDebugAddZOrb
 StrProperty  /Script/AT.ATCheatManager:ATDebugAddZOrb.Type
-[ Index:00000B6B0] (Size:0x00070) [UObject:000001E199C22E70] IntProperty  /Script/AT.ATCheatManager:ATDebugAddZOrb.Num
-[ Index:00000B6B1] (Size:0x000B8) [UObject:000001E199C40D00] Function  /Script/AT.ATCheatManager:ATDebugAIActive
-[ Index:00000B6B2] (Size:0x000B8) [UObject:000001E199C40C40] Function  /Script/AT.ATCheatManager:ATDebugAndroidAssaultAreaActivate
-[ Index:00000B6B3] (Size:0x00070) [UObject:000001E199C22E00] NameProperty  /Script/AT.ATCheatManager:ATDebugAndroidAssaultAreaActivate.InName
+IntProperty  /Script/AT.ATCheatManager:ATDebugAddZOrb.Num
+Function  /Script/AT.ATCheatManager:ATDebugAIActive
+Function  /Script/AT.ATCheatManager:ATDebugAndroidAssaultAreaActivate
+NameProperty  /Script/AT.ATCheatManager:ATDebugAndroidAssaultAreaActivate.InName
 [ Index:00000B6B4] (Size:0x000B8) [UObject:000001E199C40B80] Function  /Script/AT.ATCheatManager:ATDebugAndroidAssaultAreaDeactivate
 [ Index:00000B6B5] (Size:0x00070) [UObject:000001E199C22D90] NameProperty  /Script/AT.ATCheatManager:ATDebugAndroidAssaultAreaDeactivate.InName
 [ Index:00000B6B6] (Size:0x000B8) [UObject:000001E199C40AC0] Function  /Script/AT.ATCheatManager:ATDebugAndroidAssaultFinishDemoPointCheck
