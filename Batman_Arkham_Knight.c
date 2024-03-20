@@ -156,3 +156,8 @@ ToggleAIPaths                            ( FunctionBmGame.RCheatManager.ToggleAI
 ToggleNavMeshInspector                   ( FunctionBmGame.RCheatManager.ToggleNavMeshInspector )
 ToggleMagicSmasher                       ( FunctionBmGame.RCheatManager.ToggleMagicSmasher )
 ToggleMagicGunStartle                    ( FunctionBmGame.RCheatManager.ToggleMagicGunStartle )
+DebugCamera                              ( FunctionBmGame.RCheatManager.DebugCamera )
+DebugForce3rdPersonCamera                ( FunctionBmGame.RCheatManager.DebugForce3rdPersonCamera )
+AddXP                                    ( FunctionBmGame.RCheatManager.AddXP )
+SpecialActionXP                          ( FunctionBmGame.RCheatManager.SpecialActionXP )
+PlayerWTF                                ( FunctionBmGame.RCheatManager.PlayerWTF )
