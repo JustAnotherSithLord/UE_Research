@@ -176,3 +176,8 @@ DebugGlobalFlagGet                       ( FunctionBmGame.RCheatManager.DebugGlo
 DebugGiveArmour                          ( FunctionBmGame.RCheatManager.DebugGiveArmour )
 DebugRemoveArmour                        ( FunctionBmGame.RCheatManager.DebugRemoveArmour )
 InfiniteGadgets                          ( FunctionBmGame.RCheatManager.InfiniteGadgets )
+DebugUpgradeEquipment                    ( FunctionBmGame.RCheatManager.DebugUpgradeEquipment )
+InstantCasualty                          ( FunctionBmGame.RCheatManager.InstantCasualty )
+LockGlideButton                          ( FunctionBmGame.RCheatManager.LockGlideButton )
+DebugPlayerObstructions                  ( FunctionBmGame.RCheatManager.DebugPlayerObstructions )
+DebugInteractableItems                   ( FunctionBmGame.RCheatManager.DebugInteractableItems )
