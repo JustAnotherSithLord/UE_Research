@@ -151,3 +151,8 @@ TurnOffEnemiesCanAttack                  ( FunctionBmGame.RCheatManager.TurnOffE
 ToggleBot                                ( FunctionBmGame.RCheatManager.ToggleBot )
 TogglePhysicsGrabber                     ( FunctionBmGame.RCheatManager.TogglePhysicsGrabber )
 DPropShape                               ( FunctionBmGame.RCheatManager.DPropShape )
+TogglePaths                              ( FunctionBmGame.RCheatManager.TogglePaths )
+ToggleAIPaths                            ( FunctionBmGame.RCheatManager.ToggleAIPaths )
+ToggleNavMeshInspector                   ( FunctionBmGame.RCheatManager.ToggleNavMeshInspector )
+ToggleMagicSmasher                       ( FunctionBmGame.RCheatManager.ToggleMagicSmasher )
+ToggleMagicGunStartle                    ( FunctionBmGame.RCheatManager.ToggleMagicGunStartle )
