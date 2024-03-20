@@ -181,3 +181,8 @@ InstantCasualty                          ( FunctionBmGame.RCheatManager.InstantC
 LockGlideButton                          ( FunctionBmGame.RCheatManager.LockGlideButton )
 DebugPlayerObstructions                  ( FunctionBmGame.RCheatManager.DebugPlayerObstructions )
 DebugInteractableItems                   ( FunctionBmGame.RCheatManager.DebugInteractableItems )
+EnableBattleModeToggleOption             ( FunctionBmGame.RCheatManager.EnableBattleModeToggleOption )
+BarkWTF                                  ( FunctionBmGame.RCheatManager.BarkWTF )
+BarkDewedge                              ( FunctionBmGame.RCheatManager.BarkDewedge )
+MakeTerrified                            ( FunctionBmGame.RCheatManager.MakeTerrified )
+MakeNervous                              ( FunctionBmGame.RCheatManager.MakeNervous )
