@@ -161,3 +161,8 @@ DebugForce3rdPersonCamera                ( FunctionBmGame.RCheatManager.DebugFor
 AddXP                                    ( FunctionBmGame.RCheatManager.AddXP )
 SpecialActionXP                          ( FunctionBmGame.RCheatManager.SpecialActionXP )
 PlayerWTF                                ( FunctionBmGame.RCheatManager.PlayerWTF )
+UnlinkWBID                               ( FunctionBmGame.RCheatManager.UnlinkWBID )
+PPWTF                                    ( FunctionBmGame.RCheatManager.PPWTF )
+WeaponConfigWTF                          ( FunctionBmGame.RCheatManager.WeaponConfigWTF )
+DebugGiveAllGadgets                      ( FunctionBmGame.RCheatManager.DebugGiveAllGadgets )
+UnlockAllUpgrades                        ( FunctionBmGame.RCheatManager.UnlockAllUpgrades )
