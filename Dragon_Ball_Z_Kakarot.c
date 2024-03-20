@@ -144,5 +144,5 @@ Function  /Script/AT.ATCheatManager:ATDebugAtrociousBegin
 Function  /Script/AT.ATCheatManager:ATDebugAtrociousComplete
 ByteProperty  /Script/AT.ATCheatManager:ATDebugAtrociousComplete.InPhase
 NameProperty  /Script/AT.ATCheatManager:ATDebugAtrociousComplete.inLevelName
-[ Index:00000B6C0] (Size:0x000B8) [UObject:000001E199C40700] Function  /Script/AT.ATCheatManager:ATDebugBannedTest
-[ Index:00000B6C1] (Size:0x00070) [UObject:000001E199C22C40] NameProperty  /Script/AT.ATCheatManager:ATDebugBannedTest.InSkill
+Function  /Script/AT.ATCheatManager:ATDebugBannedTest
+NameProperty  /Script/AT.ATCheatManager:ATDebugBannedTest.InSkill
