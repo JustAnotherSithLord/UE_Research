@@ -132,9 +132,9 @@ IntProperty  /Script/AT.ATCheatManager:ATDebugAddZOrb.Num
 Function  /Script/AT.ATCheatManager:ATDebugAIActive
 Function  /Script/AT.ATCheatManager:ATDebugAndroidAssaultAreaActivate
 NameProperty  /Script/AT.ATCheatManager:ATDebugAndroidAssaultAreaActivate.InName
-[ Index:00000B6B4] (Size:0x000B8) [UObject:000001E199C40B80] Function  /Script/AT.ATCheatManager:ATDebugAndroidAssaultAreaDeactivate
-[ Index:00000B6B5] (Size:0x00070) [UObject:000001E199C22D90] NameProperty  /Script/AT.ATCheatManager:ATDebugAndroidAssaultAreaDeactivate.InName
-[ Index:00000B6B6] (Size:0x000B8) [UObject:000001E199C40AC0] Function  /Script/AT.ATCheatManager:ATDebugAndroidAssaultFinishDemoPointCheck
+Function  /Script/AT.ATCheatManager:ATDebugAndroidAssaultAreaDeactivate
+NameProperty  /Script/AT.ATCheatManager:ATDebugAndroidAssaultAreaDeactivate.InName
+Function  /Script/AT.ATCheatManager:ATDebugAndroidAssaultFinishDemoPointCheck
 [ Index:00000B6B7] (Size:0x00070) [UObject:000001E199C22D20] FloatProperty  /Script/AT.ATCheatManager:ATDebugAndroidAssaultFinishDemoPointCheck.DrawTime
 [ Index:00000B6B8] (Size:0x00078) [UObject:000001E199C16A00] BoolProperty  /Script/AT.ATCheatManager:ATDebugAndroidAssaultFinishDemoPointCheck.bErrorOnly
 [ Index:00000B6B9] (Size:0x000B8) [UObject:000001E199C40A00] Function  /Script/AT.ATCheatManager:ATDebugAreaChangeTrainingEnd
