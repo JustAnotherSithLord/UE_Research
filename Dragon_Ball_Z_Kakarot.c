@@ -141,8 +141,8 @@ Function  /Script/AT.ATCheatManager:ATDebugAreaChangeTrainingEnd
 Function  /Script/AT.ATCheatManager:ATDebugAreaChangeTrainingForceOpenItem
 BoolProperty  /Script/AT.ATCheatManager:ATDebugAreaChangeTrainingForceOpenItem.IsActive
 Function  /Script/AT.ATCheatManager:ATDebugAtrociousBegin
-[ Index:00000B6BD] (Size:0x000B8) [UObject:000001E199C407C0] Function  /Script/AT.ATCheatManager:ATDebugAtrociousComplete
-[ Index:00000B6BE] (Size:0x00078) [UObject:000001E199C16900] ByteProperty  /Script/AT.ATCheatManager:ATDebugAtrociousComplete.InPhase
-[ Index:00000B6BF] (Size:0x00070) [UObject:000001E199C22CB0] NameProperty  /Script/AT.ATCheatManager:ATDebugAtrociousComplete.inLevelName
+Function  /Script/AT.ATCheatManager:ATDebugAtrociousComplete
+ByteProperty  /Script/AT.ATCheatManager:ATDebugAtrociousComplete.InPhase
+NameProperty  /Script/AT.ATCheatManager:ATDebugAtrociousComplete.inLevelName
 [ Index:00000B6C0] (Size:0x000B8) [UObject:000001E199C40700] Function  /Script/AT.ATCheatManager:ATDebugBannedTest
 [ Index:00000B6C1] (Size:0x00070) [UObject:000001E199C22C40] NameProperty  /Script/AT.ATCheatManager:ATDebugBannedTest.InSkill
