@@ -99,3 +99,8 @@ IncreaseDataPackCount12 ( Function BmGame.RCheatManager.IncreaseDataPackCount12 
 InfiniteGadgets ( Function BmGame.RCheatManager.InfiniteGadgets )
 InitCheatManager ( Function Engine.CheatManager.InitCheatManager )
 InitCheatManager ( Function Engine.CheatManager.InitCheatManager )
+InitCheatManager ( Function Engine.CheatManager.InitCheatManager )
+InstantCasualty ( Function BmGame.RCheatManager.InstantCasualty )
+Invisible ( Function BmGame.RCheatManager.Invisible )
+KillAll ( Function Engine.CheatManager.KillAll )
+KillAllPawns ( Function Engine.CheatManager.KillAllPawns )
