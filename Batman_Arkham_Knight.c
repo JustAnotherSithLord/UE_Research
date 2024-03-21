@@ -191,3 +191,8 @@ DumpBarkCoord                            ( FunctionBmGame.RCheatManager.DumpBark
 DumpRoomState                            ( FunctionBmGame.RCheatManager.DumpRoomState )
 DumpPawnLevelVol                         ( FunctionBmGame.RCheatManager.DumpPawnLevelVol )
 ResetRoom                                ( FunctionBmGame.RCheatManager.ResetRoom )
+TestNoSaving                             ( FunctionBmGame.RCheatManager.TestNoSaving )
+TestSetGlobalFlag                        ( FunctionBmGame.RCheatManager.TestSetGlobalFlag )
+UnlockNewGamePlus                        ( FunctionBmGame.RCheatManager.UnlockNewGamePlus )
+UA                                       ( FunctionBmGame.RCheatManager.UA )
+UnlockAll                                ( FunctionBmGame.RCheatManager.UnlockAll )
