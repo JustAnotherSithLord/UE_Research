@@ -196,3 +196,8 @@ TestSetGlobalFlag                        ( FunctionBmGame.RCheatManager.TestSetG
 UnlockNewGamePlus                        ( FunctionBmGame.RCheatManager.UnlockNewGamePlus )
 UA                                       ( FunctionBmGame.RCheatManager.UA )
 UnlockAll                                ( FunctionBmGame.RCheatManager.UnlockAll )
+UnlockChallengeMode                      ( FunctionBmGame.RCheatManager.UnlockChallengeMode )
+UnlockWayneTech                          ( FunctionBmGame.RCheatManager.UnlockWayneTech )
+UnlockBios                               ( FunctionBmGame.RCheatManager.UnlockBios )
+UnlockTapes                              ( FunctionBmGame.RCheatManager.UnlockTapes )
+UnlockCityStory                          ( FunctionBmGame.RCheatManager.UnlockCityStory )
