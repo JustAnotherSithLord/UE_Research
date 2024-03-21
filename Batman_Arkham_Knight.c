@@ -186,3 +186,8 @@ BarkWTF                                  ( FunctionBmGame.RCheatManager.BarkWTF 
 BarkDewedge                              ( FunctionBmGame.RCheatManager.BarkDewedge )
 MakeTerrified                            ( FunctionBmGame.RCheatManager.MakeTerrified )
 MakeNervous                              ( FunctionBmGame.RCheatManager.MakeNervous )
+DumpAllNav                               ( FunctionBmGame.RCheatManager.DumpAllNav )
+DumpBarkCoord                            ( FunctionBmGame.RCheatManager.DumpBarkCoord )
+DumpRoomState                            ( FunctionBmGame.RCheatManager.DumpRoomState )
+DumpPawnLevelVol                         ( FunctionBmGame.RCheatManager.DumpPawnLevelVol )
+ResetRoom                                ( FunctionBmGame.RCheatManager.ResetRoom )
