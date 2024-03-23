@@ -173,12 +173,12 @@ Function  /Script/AT.ATCheatManager:ATDebugCharaDamageRate
 ByteProperty  /Script/AT.ATCheatManager:ATDebugCharaDamageRate.PartyIndex
 FloatProperty  /Script/AT.ATCheatManager:ATDebugCharaDamageRate.DamageRate
 Function  /Script/AT.ATCheatManager:ATDebugCharaLifeRate
-[ Index:00000B6DD] (Size:0x00078) [UObject:000001E199C16680] ByteProperty  /Script/AT.ATCheatManager:ATDebugCharaLifeRate.PartyIndex
-[ Index:00000B6DE] (Size:0x00070) [UObject:000001E199C24530] FloatProperty  /Script/AT.ATCheatManager:ATDebugCharaLifeRate.LifeRate
-[ Index:00000B6DF] (Size:0x000B8) [UObject:000001E199C42C80] Function  /Script/AT.ATCheatManager:ATDebugCheckCurrentSubQuestIds
-[ Index:00000B6E0] (Size:0x00070) [UObject:000001E199C244C0] IntProperty  /Script/AT.ATCheatManager:ATDebugCheckCurrentSubQuestIds.EndPhaseNo
-[ Index:00000B6E1] (Size:0x00070) [UObject:000001E199C24450] NameProperty  /Script/AT.ATCheatManager:ATDebugCheckCurrentSubQuestIds.EndQuestId
-[ Index:00000B6E2] (Size:0x00070) [UObject:000001E199C243E0] IntProperty  /Script/AT.ATCheatManager:ATDebugCheckCurrentSubQuestIds.StartPhaseNo
+ByteProperty  /Script/AT.ATCheatManager:ATDebugCharaLifeRate.PartyIndex
+FloatProperty  /Script/AT.ATCheatManager:ATDebugCharaLifeRate.LifeRate
+Function  /Script/AT.ATCheatManager:ATDebugCheckCurrentSubQuestIds
+IntProperty  /Script/AT.ATCheatManager:ATDebugCheckCurrentSubQuestIds.EndPhaseNo
+NameProperty  /Script/AT.ATCheatManager:ATDebugCheckCurrentSubQuestIds.EndQuestId
+IntProperty  /Script/AT.ATCheatManager:ATDebugCheckCurrentSubQuestIds.StartPhaseNo
 [ Index:00000B6E3] (Size:0x00070) [UObject:000001E199C24370] NameProperty  /Script/AT.ATCheatManager:ATDebugCheckCurrentSubQuestIds.StartQuestId
 [ Index:00000B6E4] (Size:0x000B8) [UObject:000001E199C42BC0] Function  /Script/AT.ATCheatManager:ATDebugCheckImpLogTest
 [ Index:00000B6E5] (Size:0x000B8) [UObject:000001E199C42B00] Function  /Script/AT.ATCheatManager:ATDebugCheckMovableEvents
