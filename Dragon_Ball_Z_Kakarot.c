@@ -179,10 +179,10 @@ Function  /Script/AT.ATCheatManager:ATDebugCheckCurrentSubQuestIds
 IntProperty  /Script/AT.ATCheatManager:ATDebugCheckCurrentSubQuestIds.EndPhaseNo
 NameProperty  /Script/AT.ATCheatManager:ATDebugCheckCurrentSubQuestIds.EndQuestId
 IntProperty  /Script/AT.ATCheatManager:ATDebugCheckCurrentSubQuestIds.StartPhaseNo
-[ Index:00000B6E3] (Size:0x00070) [UObject:000001E199C24370] NameProperty  /Script/AT.ATCheatManager:ATDebugCheckCurrentSubQuestIds.StartQuestId
-[ Index:00000B6E4] (Size:0x000B8) [UObject:000001E199C42BC0] Function  /Script/AT.ATCheatManager:ATDebugCheckImpLogTest
-[ Index:00000B6E5] (Size:0x000B8) [UObject:000001E199C42B00] Function  /Script/AT.ATCheatManager:ATDebugCheckMovableEvents
-[ Index:00000B6E6] (Size:0x000B8) [UObject:000001E199C42A40] Function  /Script/AT.ATCheatManager:ATDebugClearMainQuest
+NameProperty  /Script/AT.ATCheatManager:ATDebugCheckCurrentSubQuestIds.StartQuestId
+Function  /Script/AT.ATCheatManager:ATDebugCheckImpLogTest
+Function  /Script/AT.ATCheatManager:ATDebugCheckMovableEvents
+Function  /Script/AT.ATCheatManager:ATDebugClearMainQuest
 [ Index:00000B6E7] (Size:0x000B8) [UObject:000001E199C42980] Function  /Script/AT.ATCheatManager:ATDebugClearSubQuest
 [ Index:00000B6E8] (Size:0x000B8) [UObject:000001E199C428C0] Function  /Script/AT.ATCheatManager:ATDebugCollectionOpen
 [ Index:00000B6E9] (Size:0x000B8) [UObject:000001E199C42800] Function  /Script/AT.ATCheatManager:ATDebugCombineParts
