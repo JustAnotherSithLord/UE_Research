@@ -146,16 +146,16 @@ ByteProperty  /Script/AT.ATCheatManager:ATDebugAtrociousComplete.InPhase
 NameProperty  /Script/AT.ATCheatManager:ATDebugAtrociousComplete.inLevelName
 Function  /Script/AT.ATCheatManager:ATDebugBannedTest
 NameProperty  /Script/AT.ATCheatManager:ATDebugBannedTest.InSkill
-[ Index:00000B6C2] (Size:0x00078) [UObject:000001E199C16880] BoolProperty  /Script/AT.ATCheatManager:ATDebugBannedTest.bBanned
-[ Index:00000B6C3] (Size:0x00070) [UObject:000001E199C22BD0] IntProperty  /Script/AT.ATCheatManager:ATDebugBannedTest.Op
-[ Index:00000B6C4] (Size:0x000B8) [UObject:000001E199C40640] Function  /Script/AT.ATCheatManager:ATDebugBeginQuest
-[ Index:00000B6C5] (Size:0x00070) [UObject:000001E199C22B60] IntProperty  /Script/AT.ATCheatManager:ATDebugBeginQuest.PhaseNo
-[ Index:00000B6C6] (Size:0x00070) [UObject:000001E199C247D0] NameProperty  /Script/AT.ATCheatManager:ATDebugBeginQuest.QuestId
-[ Index:00000B6C7] (Size:0x000B8) [UObject:000001E199C40580] Function  /Script/AT.ATCheatManager:ATDebugBeginQuestDemo
-[ Index:00000B6C8] (Size:0x00070) [UObject:000001E199C24760] NameProperty  /Script/AT.ATCheatManager:ATDebugBeginQuestDemo.ID
-[ Index:00000B6C9] (Size:0x000B8) [UObject:000001E199C404C0] Function  /Script/AT.ATCheatManager:ATDebugBGMDebugMode
-[ Index:00000B6CA] (Size:0x000B8) [UObject:000001E199C40400] Function  /Script/AT.ATCheatManager:ATDebugBgmManagerTest
-[ Index:00000B6CB] (Size:0x00070) [UObject:000001E199C246F0] IntProperty  /Script/AT.ATCheatManager:ATDebugBgmManagerTest.TestCase
+BoolProperty  /Script/AT.ATCheatManager:ATDebugBannedTest.bBanned
+IntProperty  /Script/AT.ATCheatManager:ATDebugBannedTest.Op
+Function  /Script/AT.ATCheatManager:ATDebugBeginQuest
+IntProperty  /Script/AT.ATCheatManager:ATDebugBeginQuest.PhaseNo
+NameProperty  /Script/AT.ATCheatManager:ATDebugBeginQuest.QuestId
+Function  /Script/AT.ATCheatManager:ATDebugBeginQuestDemo
+NameProperty  /Script/AT.ATCheatManager:ATDebugBeginQuestDemo.ID
+Function  /Script/AT.ATCheatManager:ATDebugBGMDebugMode
+Function  /Script/AT.ATCheatManager:ATDebugBgmManagerTest
+IntProperty  /Script/AT.ATCheatManager:ATDebugBgmManagerTest.TestCase
 [ Index:00000B6CC] (Size:0x000B8) [UObject:000001E199C40340] Function  /Script/AT.ATCheatManager:ATDebugBindControl
 [ Index:00000B6CD] (Size:0x000B8) [UObject:000001E199C40280] Function  /Script/AT.ATCheatManager:ATDebugBNIDQuestUnlock
 [ Index:00000B6CE] (Size:0x000B8) [UObject:000001E199C401C0] Function  /Script/AT.ATCheatManager:ATDebugChangeAirCar
