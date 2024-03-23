@@ -156,17 +156,17 @@ NameProperty  /Script/AT.ATCheatManager:ATDebugBeginQuestDemo.ID
 Function  /Script/AT.ATCheatManager:ATDebugBGMDebugMode
 Function  /Script/AT.ATCheatManager:ATDebugBgmManagerTest
 IntProperty  /Script/AT.ATCheatManager:ATDebugBgmManagerTest.TestCase
-[ Index:00000B6CC] (Size:0x000B8) [UObject:000001E199C40340] Function  /Script/AT.ATCheatManager:ATDebugBindControl
-[ Index:00000B6CD] (Size:0x000B8) [UObject:000001E199C40280] Function  /Script/AT.ATCheatManager:ATDebugBNIDQuestUnlock
-[ Index:00000B6CE] (Size:0x000B8) [UObject:000001E199C401C0] Function  /Script/AT.ATCheatManager:ATDebugChangeAirCar
-[ Index:00000B6CF] (Size:0x000B8) [UObject:000001E199C40100] Function  /Script/AT.ATCheatManager:ATDebugChangeDlcOwnership
-[ Index:00000B6D0] (Size:0x00078) [UObject:000001E199C16800] BoolProperty  /Script/AT.ATCheatManager:ATDebugChangeDlcOwnership.bEnable
-[ Index:00000B6D1] (Size:0x00070) [UObject:000001E199C24680] NameProperty  /Script/AT.ATCheatManager:ATDebugChangeDlcOwnership.DlcCommonId
-[ Index:00000B6D2] (Size:0x000B8) [UObject:000001E199C40040] Function  /Script/AT.ATCheatManager:ATDebugChangeDlcOwnershipAll
-[ Index:00000B6D3] (Size:0x00078) [UObject:000001E199C16780] BoolProperty  /Script/AT.ATCheatManager:ATDebugChangeDlcOwnershipAll.bEnable
-[ Index:00000B6D4] (Size:0x000B8) [UObject:000001E199C43100] Function  /Script/AT.ATCheatManager:ATDebugChangeDragonBallUsedState
-[ Index:00000B6D5] (Size:0x000B8) [UObject:000001E199C43040] Function  /Script/AT.ATCheatManager:ATDebugChangePlayer
-[ Index:00000B6D6] (Size:0x000B8) [UObject:000001E199C42F80] Function  /Script/AT.ATCheatManager:ATDebugChangerLevel
+Function  /Script/AT.ATCheatManager:ATDebugBindControl
+Function  /Script/AT.ATCheatManager:ATDebugBNIDQuestUnlock
+Function  /Script/AT.ATCheatManager:ATDebugChangeAirCar
+Function  /Script/AT.ATCheatManager:ATDebugChangeDlcOwnership
+BoolProperty  /Script/AT.ATCheatManager:ATDebugChangeDlcOwnership.bEnable
+NameProperty  /Script/AT.ATCheatManager:ATDebugChangeDlcOwnership.DlcCommonId
+Function  /Script/AT.ATCheatManager:ATDebugChangeDlcOwnershipAll
+BoolProperty  /Script/AT.ATCheatManager:ATDebugChangeDlcOwnershipAll.bEnable
+Function  /Script/AT.ATCheatManager:ATDebugChangeDragonBallUsedState
+Function  /Script/AT.ATCheatManager:ATDebugChangePlayer
+Function  /Script/AT.ATCheatManager:ATDebugChangerLevel
 [ Index:00000B6D7] (Size:0x00070) [UObject:000001E199C24610] NameProperty  /Script/AT.ATCheatManager:ATDebugChangerLevel.Tag
 [ Index:00000B6D8] (Size:0x000B8) [UObject:000001E199C42EC0] Function  /Script/AT.ATCheatManager:ATDebugChangeTwinFoot
 [ Index:00000B6D9] (Size:0x000B8) [UObject:000001E199C42E00] Function  /Script/AT.ATCheatManager:ATDebugCharaDamageRate
