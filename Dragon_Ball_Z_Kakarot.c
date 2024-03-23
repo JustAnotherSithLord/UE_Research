@@ -183,7 +183,7 @@ NameProperty  /Script/AT.ATCheatManager:ATDebugCheckCurrentSubQuestIds.StartQues
 Function  /Script/AT.ATCheatManager:ATDebugCheckImpLogTest
 Function  /Script/AT.ATCheatManager:ATDebugCheckMovableEvents
 Function  /Script/AT.ATCheatManager:ATDebugClearMainQuest
-[ Index:00000B6E7] (Size:0x000B8) [UObject:000001E199C42980] Function  /Script/AT.ATCheatManager:ATDebugClearSubQuest
-[ Index:00000B6E8] (Size:0x000B8) [UObject:000001E199C428C0] Function  /Script/AT.ATCheatManager:ATDebugCollectionOpen
-[ Index:00000B6E9] (Size:0x000B8) [UObject:000001E199C42800] Function  /Script/AT.ATCheatManager:ATDebugCombineParts
-[ Index:00000B6EA] (Size:0x00078) [UObject:000001E199C16600] ByteProperty  /Script/AT.ATCheatManager:ATDebugCombineParts.form
+Function  /Script/AT.ATCheatManager:ATDebugClearSubQuest
+Function  /Script/AT.ATCheatManager:ATDebugCollectionOpen
+Function  /Script/AT.ATCheatManager:ATDebugCombineParts
+ByteProperty  /Script/AT.ATCheatManager:ATDebugCombineParts.form
