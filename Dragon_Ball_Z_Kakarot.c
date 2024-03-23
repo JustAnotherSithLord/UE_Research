@@ -167,12 +167,12 @@ BoolProperty  /Script/AT.ATCheatManager:ATDebugChangeDlcOwnershipAll.bEnable
 Function  /Script/AT.ATCheatManager:ATDebugChangeDragonBallUsedState
 Function  /Script/AT.ATCheatManager:ATDebugChangePlayer
 Function  /Script/AT.ATCheatManager:ATDebugChangerLevel
-[ Index:00000B6D7] (Size:0x00070) [UObject:000001E199C24610] NameProperty  /Script/AT.ATCheatManager:ATDebugChangerLevel.Tag
-[ Index:00000B6D8] (Size:0x000B8) [UObject:000001E199C42EC0] Function  /Script/AT.ATCheatManager:ATDebugChangeTwinFoot
-[ Index:00000B6D9] (Size:0x000B8) [UObject:000001E199C42E00] Function  /Script/AT.ATCheatManager:ATDebugCharaDamageRate
-[ Index:00000B6DA] (Size:0x00078) [UObject:000001E199C16700] ByteProperty  /Script/AT.ATCheatManager:ATDebugCharaDamageRate.PartyIndex
-[ Index:00000B6DB] (Size:0x00070) [UObject:000001E199C245A0] FloatProperty  /Script/AT.ATCheatManager:ATDebugCharaDamageRate.DamageRate
-[ Index:00000B6DC] (Size:0x000B8) [UObject:000001E199C42D40] Function  /Script/AT.ATCheatManager:ATDebugCharaLifeRate
+NameProperty  /Script/AT.ATCheatManager:ATDebugChangerLevel.Tag
+Function  /Script/AT.ATCheatManager:ATDebugChangeTwinFoot
+Function  /Script/AT.ATCheatManager:ATDebugCharaDamageRate
+ByteProperty  /Script/AT.ATCheatManager:ATDebugCharaDamageRate.PartyIndex
+FloatProperty  /Script/AT.ATCheatManager:ATDebugCharaDamageRate.DamageRate
+Function  /Script/AT.ATCheatManager:ATDebugCharaLifeRate
 [ Index:00000B6DD] (Size:0x00078) [UObject:000001E199C16680] ByteProperty  /Script/AT.ATCheatManager:ATDebugCharaLifeRate.PartyIndex
 [ Index:00000B6DE] (Size:0x00070) [UObject:000001E199C24530] FloatProperty  /Script/AT.ATCheatManager:ATDebugCharaLifeRate.LifeRate
 [ Index:00000B6DF] (Size:0x000B8) [UObject:000001E199C42C80] Function  /Script/AT.ATCheatManager:ATDebugCheckCurrentSubQuestIds
