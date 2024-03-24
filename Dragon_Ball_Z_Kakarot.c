@@ -237,6 +237,6 @@ Function  /Script/AT.ATCheatManager:ATDebugDisableQuestNavigation
 Function  /Script/AT.ATCheatManager:ATDebugDisableTickUI
 BoolProperty  /Script/AT.ATCheatManager:ATDebugDisableTickUI.bDisable
 Function  /Script/AT.ATCheatManager:ATDebugDisableTps
-[ Index:00000B71D] (Size:0x000B8) [UObject:000001E199C443C0] Function  /Script/AT.ATCheatManager:ATDebugDisplayPurpose
-[ Index:00000B71E] (Size:0x000B8) [UObject:000001E199C44300] Function  /Script/AT.ATCheatManager:ATDebugDLCListCheck
-[ Index:00000B71F] (Size:0x000B8) [UObject:000001E199C44240] Function  /Script/AT.ATCheatManager:ATDebugDLCListLog
+Function  /Script/AT.ATCheatManager:ATDebugDisplayPurpose
+Function  /Script/AT.ATCheatManager:ATDebugDLCListCheck
+Function  /Script/AT.ATCheatManager:ATDebugDLCListLog
