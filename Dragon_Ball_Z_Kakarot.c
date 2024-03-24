@@ -218,11 +218,11 @@ Function  /Script/AT.ATCheatManager:ATDebugCompleteQuest
 NameProperty  /Script/AT.ATCheatManager:ATDebugCompleteQuest.QuestId
 Function  /Script/AT.ATCheatManager:ATDebugCompleteReplaying
 Function  /Script/AT.ATCheatManager:ATDebugConsistencyCheckQuestCharacter
-[ Index:00000B70A] (Size:0x000B8) [UObject:000001E199C41CC0] Function  /Script/AT.ATCheatManager:ATDebugControllerStatusDisplay
-[ Index:00000B70B] (Size:0x000B8) [UObject:000001E199C41C00] Function  /Script/AT.ATCheatManager:ATDebugCreateLeafVolume
-[ Index:00000B70C] (Size:0x000B8) [UObject:000001E199C41B40] Function  /Script/AT.ATCheatManager:ATDebugDataInstallProgress
-[ Index:00000B70D] (Size:0x00070) [UObject:000001E199C23EA0] IntProperty  /Script/AT.ATCheatManager:ATDebugDataInstallProgress.InProgress
-[ Index:00000B70E] (Size:0x000B8) [UObject:000001E199C41A80] Function  /Script/AT.ATCheatManager:ATDebugDelaySublevelActivation
+Function  /Script/AT.ATCheatManager:ATDebugControllerStatusDisplay
+Function  /Script/AT.ATCheatManager:ATDebugCreateLeafVolume
+Function  /Script/AT.ATCheatManager:ATDebugDataInstallProgress
+IntProperty  /Script/AT.ATCheatManager:ATDebugDataInstallProgress.InProgress
+Function  /Script/AT.ATCheatManager:ATDebugDelaySublevelActivation
 [ Index:00000B70F] (Size:0x00078) [UObject:000001E199C16A80] BoolProperty  /Script/AT.ATCheatManager:ATDebugDelaySublevelActivation.bDelay
 [ Index:00000B710] (Size:0x000B8) [UObject:000001E199C419C0] Function  /Script/AT.ATCheatManager:ATDebugDeleteFriend
 [ Index:00000B711] (Size:0x000B8) [UObject:000001E199C41900] Function  /Script/AT.ATCheatManager:ATDebugDeleteLeafVolume
