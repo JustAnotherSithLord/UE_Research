@@ -214,7 +214,7 @@ Function  /Script/AT.ATCheatManager:ATDebugCommunityRankTest
 Function  /Script/AT.ATCheatManager:ATDebugCommunitySkill
 IntProperty  /Script/AT.ATCheatManager:ATDebugCommunitySkill.Lv
 IntProperty  /Script/AT.ATCheatManager:ATDebugCommunitySkill.Category
-[ Index:00000B706] (Size:0x000B8) [UObject:000001E199C41F00] Function  /Script/AT.ATCheatManager:ATDebugCompleteQuest
-[ Index:00000B707] (Size:0x00070) [UObject:000001E199C23F10] NameProperty  /Script/AT.ATCheatManager:ATDebugCompleteQuest.QuestId
-[ Index:00000B708] (Size:0x000B8) [UObject:000001E199C41E40] Function  /Script/AT.ATCheatManager:ATDebugCompleteReplaying
-[ Index:00000B709] (Size:0x000B8) [UObject:000001E199C41D80] Function  /Script/AT.ATCheatManager:ATDebugConsistencyCheckQuestCharacter
+Function  /Script/AT.ATCheatManager:ATDebugCompleteQuest
+NameProperty  /Script/AT.ATCheatManager:ATDebugCompleteQuest.QuestId
+Function  /Script/AT.ATCheatManager:ATDebugCompleteReplaying
+Function  /Script/AT.ATCheatManager:ATDebugConsistencyCheckQuestCharacter
