@@ -203,12 +203,12 @@ IntProperty  /Script/AT.ATCheatManager:ATDebugCommandPaletteChangeActive.idx
 Function  /Script/AT.ATCheatManager:ATDebugCommandPaletteCoopSkill
 IntProperty  /Script/AT.ATCheatManager:ATDebugCommandPaletteCoopSkill.IsOn
 Function  /Script/AT.ATCheatManager:ATDebugCommCalc
-[ Index:00000B6FB] (Size:0x00070) [UObject:000001E199C241B0] FloatProperty  /Script/AT.ATCheatManager:ATDebugCommCalc.Rate
-[ Index:00000B6FC] (Size:0x00070) [UObject:000001E199C24140] IntProperty  /Script/AT.ATCheatManager:ATDebugCommCalc.Val
-[ Index:00000B6FD] (Size:0x000B8) [UObject:000001E199C422C0] Function  /Script/AT.ATCheatManager:ATDebugCommunityBoard
-[ Index:00000B6FE] (Size:0x000B8) [UObject:000001E199C42200] Function  /Script/AT.ATCheatManager:ATDebugCommunityBoardEdit
-[ Index:00000B6FF] (Size:0x00070) [UObject:000001E199C240D0] IntProperty  /Script/AT.ATCheatManager:ATDebugCommunityBoardEdit.cate
-[ Index:00000B700] (Size:0x000B8) [UObject:000001E199C42140] Function  /Script/AT.ATCheatManager:ATDebugCommunityCTest
+FloatProperty  /Script/AT.ATCheatManager:ATDebugCommCalc.Rate
+IntProperty  /Script/AT.ATCheatManager:ATDebugCommCalc.Val
+Function  /Script/AT.ATCheatManager:ATDebugCommunityBoard
+Function  /Script/AT.ATCheatManager:ATDebugCommunityBoardEdit
+IntProperty  /Script/AT.ATCheatManager:ATDebugCommunityBoardEdit.cate
+Function  /Script/AT.ATCheatManager:ATDebugCommunityCTest
 [ Index:00000B701] (Size:0x00070) [UObject:000001E199C24060] IntProperty  /Script/AT.ATCheatManager:ATDebugCommunityCTest.testId
 [ Index:00000B702] (Size:0x000B8) [UObject:000001E199C42080] Function  /Script/AT.ATCheatManager:ATDebugCommunityRankTest
 [ Index:00000B703] (Size:0x000B8) [UObject:000001E199C41FC0] Function  /Script/AT.ATCheatManager:ATDebugCommunitySkill
