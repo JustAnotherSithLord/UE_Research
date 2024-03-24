@@ -228,11 +228,11 @@ Function  /Script/AT.ATCheatManager:ATDebugDeleteFriend
 Function  /Script/AT.ATCheatManager:ATDebugDeleteLeafVolume
 Function  /Script/AT.ATCheatManager:ATDebugDeleteQuestDataAll
 Function  /Script/AT.ATCheatManager:ATDebugDeleteSaveData
-[ Index:00000B714] (Size:0x00078) [UObject:000001E199C16B00] ByteProperty  /Script/AT.ATCheatManager:ATDebugDeleteSaveData.Slot
-[ Index:00000B715] (Size:0x000B8) [UObject:000001E199C44840] Function  /Script/AT.ATCheatManager:ATDebugDisableDrawFullScreenMovie
-[ Index:00000B716] (Size:0x000B8) [UObject:000001E199C44780] Function  /Script/AT.ATCheatManager:ATDebugDisableItemHit
-[ Index:00000B717] (Size:0x000B8) [UObject:000001E199C446C0] Function  /Script/AT.ATCheatManager:ATDebugDisableNpcTalk
-[ Index:00000B718] (Size:0x00078) [UObject:000001E199C18300] BoolProperty  /Script/AT.ATCheatManager:ATDebugDisableNpcTalk.bDisable
+ByteProperty  /Script/AT.ATCheatManager:ATDebugDeleteSaveData.Slot
+Function  /Script/AT.ATCheatManager:ATDebugDisableDrawFullScreenMovie
+Function  /Script/AT.ATCheatManager:ATDebugDisableItemHit
+Function  /Script/AT.ATCheatManager:ATDebugDisableNpcTalk
+BoolProperty  /Script/AT.ATCheatManager:ATDebugDisableNpcTalk.bDisable
 [ Index:00000B719] (Size:0x000B8) [UObject:000001E199C44600] Function  /Script/AT.ATCheatManager:ATDebugDisableQuestNavigation
 [ Index:00000B71A] (Size:0x000B8) [UObject:000001E199C44540] Function  /Script/AT.ATCheatManager:ATDebugDisableTickUI
 [ Index:00000B71B] (Size:0x00078) [UObject:000001E199C18280] BoolProperty  /Script/AT.ATCheatManager:ATDebugDisableTickUI.bDisable
