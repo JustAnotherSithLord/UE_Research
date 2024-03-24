@@ -233,9 +233,11 @@ Function  /Script/AT.ATCheatManager:ATDebugDisableDrawFullScreenMovie
 Function  /Script/AT.ATCheatManager:ATDebugDisableItemHit
 Function  /Script/AT.ATCheatManager:ATDebugDisableNpcTalk
 BoolProperty  /Script/AT.ATCheatManager:ATDebugDisableNpcTalk.bDisable
+[ Index:00000B718] (Size:0x00078) [UObject:000001E199C18300] BoolProperty  /Script/AT.ATCheatManager:ATDebugDisableNpcTalk.bDisable
 [ Index:00000B719] (Size:0x000B8) [UObject:000001E199C44600] Function  /Script/AT.ATCheatManager:ATDebugDisableQuestNavigation
 [ Index:00000B71A] (Size:0x000B8) [UObject:000001E199C44540] Function  /Script/AT.ATCheatManager:ATDebugDisableTickUI
 [ Index:00000B71B] (Size:0x00078) [UObject:000001E199C18280] BoolProperty  /Script/AT.ATCheatManager:ATDebugDisableTickUI.bDisable
 [ Index:00000B71C] (Size:0x000B8) [UObject:000001E199C44480] Function  /Script/AT.ATCheatManager:ATDebugDisableTps
 [ Index:00000B71D] (Size:0x000B8) [UObject:000001E199C443C0] Function  /Script/AT.ATCheatManager:ATDebugDisplayPurpose
 [ Index:00000B71E] (Size:0x000B8) [UObject:000001E199C44300] Function  /Script/AT.ATCheatManager:ATDebugDLCListCheck
+[ Index:00000B71F] (Size:0x000B8) [UObject:000001E199C44240] Function  /Script/AT.ATCheatManager:ATDebugDLCListLog
