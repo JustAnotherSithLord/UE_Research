@@ -223,11 +223,11 @@ Function  /Script/AT.ATCheatManager:ATDebugCreateLeafVolume
 Function  /Script/AT.ATCheatManager:ATDebugDataInstallProgress
 IntProperty  /Script/AT.ATCheatManager:ATDebugDataInstallProgress.InProgress
 Function  /Script/AT.ATCheatManager:ATDebugDelaySublevelActivation
-[ Index:00000B70F] (Size:0x00078) [UObject:000001E199C16A80] BoolProperty  /Script/AT.ATCheatManager:ATDebugDelaySublevelActivation.bDelay
-[ Index:00000B710] (Size:0x000B8) [UObject:000001E199C419C0] Function  /Script/AT.ATCheatManager:ATDebugDeleteFriend
-[ Index:00000B711] (Size:0x000B8) [UObject:000001E199C41900] Function  /Script/AT.ATCheatManager:ATDebugDeleteLeafVolume
-[ Index:00000B712] (Size:0x000B8) [UObject:000001E199C449C0] Function  /Script/AT.ATCheatManager:ATDebugDeleteQuestDataAll
-[ Index:00000B713] (Size:0x000B8) [UObject:000001E199C44900] Function  /Script/AT.ATCheatManager:ATDebugDeleteSaveData
+BoolProperty  /Script/AT.ATCheatManager:ATDebugDelaySublevelActivation.bDelay
+Function  /Script/AT.ATCheatManager:ATDebugDeleteFriend
+Function  /Script/AT.ATCheatManager:ATDebugDeleteLeafVolume
+Function  /Script/AT.ATCheatManager:ATDebugDeleteQuestDataAll
+Function  /Script/AT.ATCheatManager:ATDebugDeleteSaveData
 [ Index:00000B714] (Size:0x00078) [UObject:000001E199C16B00] ByteProperty  /Script/AT.ATCheatManager:ATDebugDeleteSaveData.Slot
 [ Index:00000B715] (Size:0x000B8) [UObject:000001E199C44840] Function  /Script/AT.ATCheatManager:ATDebugDisableDrawFullScreenMovie
 [ Index:00000B716] (Size:0x000B8) [UObject:000001E199C44780] Function  /Script/AT.ATCheatManager:ATDebugDisableItemHit
