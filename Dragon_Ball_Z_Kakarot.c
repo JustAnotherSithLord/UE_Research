@@ -191,10 +191,10 @@ ByteProperty  /Script/AT.ATCheatManager:ATDebugCombineParts.variation
 Function  /Script/AT.ATCheatManager:ATDebugCombinePartsSupportLeft
 ByteProperty  /Script/AT.ATCheatManager:ATDebugCombinePartsSupportLeft.form
 ByteProperty  /Script/AT.ATCheatManager:ATDebugCombinePartsSupportLeft.variation
-[ Index:00000B6EF] (Size:0x000B8) [UObject:000001E199C42680] Function  /Script/AT.ATCheatManager:ATDebugCombinePartsSupportRight
-[ Index:00000B6F0] (Size:0x00078) [UObject:000001E199C16400] ByteProperty  /Script/AT.ATCheatManager:ATDebugCombinePartsSupportRight.form
-[ Index:00000B6F1] (Size:0x00078) [UObject:000001E199C16380] ByteProperty  /Script/AT.ATCheatManager:ATDebugCombinePartsSupportRight.variation
-[ Index:00000B6F2] (Size:0x000B8) [UObject:000001E199C425C0] Function  /Script/AT.ATCheatManager:ATDebugCombinePartsTarget
+Function  /Script/AT.ATCheatManager:ATDebugCombinePartsSupportRight
+ByteProperty  /Script/AT.ATCheatManager:ATDebugCombinePartsSupportRight.form
+ByteProperty  /Script/AT.ATCheatManager:ATDebugCombinePartsSupportRight.variation
+Function  /Script/AT.ATCheatManager:ATDebugCombinePartsTarget
 [ Index:00000B6F3] (Size:0x00078) [UObject:000001E199C18400] ByteProperty  /Script/AT.ATCheatManager:ATDebugCombinePartsTarget.form
 [ Index:00000B6F4] (Size:0x00078) [UObject:000001E199C18380] ByteProperty  /Script/AT.ATCheatManager:ATDebugCombinePartsTarget.variation
 [ Index:00000B6F5] (Size:0x000B8) [UObject:000001E199C42500] Function  /Script/AT.ATCheatManager:ATDebugCommandPaletteChangeActive
