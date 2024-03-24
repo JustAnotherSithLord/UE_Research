@@ -209,11 +209,11 @@ Function  /Script/AT.ATCheatManager:ATDebugCommunityBoard
 Function  /Script/AT.ATCheatManager:ATDebugCommunityBoardEdit
 IntProperty  /Script/AT.ATCheatManager:ATDebugCommunityBoardEdit.cate
 Function  /Script/AT.ATCheatManager:ATDebugCommunityCTest
-[ Index:00000B701] (Size:0x00070) [UObject:000001E199C24060] IntProperty  /Script/AT.ATCheatManager:ATDebugCommunityCTest.testId
-[ Index:00000B702] (Size:0x000B8) [UObject:000001E199C42080] Function  /Script/AT.ATCheatManager:ATDebugCommunityRankTest
-[ Index:00000B703] (Size:0x000B8) [UObject:000001E199C41FC0] Function  /Script/AT.ATCheatManager:ATDebugCommunitySkill
-[ Index:00000B704] (Size:0x00070) [UObject:000001E199C23FF0] IntProperty  /Script/AT.ATCheatManager:ATDebugCommunitySkill.Lv
-[ Index:00000B705] (Size:0x00070) [UObject:000001E199C23F80] IntProperty  /Script/AT.ATCheatManager:ATDebugCommunitySkill.Category
+IntProperty  /Script/AT.ATCheatManager:ATDebugCommunityCTest.testId
+Function  /Script/AT.ATCheatManager:ATDebugCommunityRankTest
+Function  /Script/AT.ATCheatManager:ATDebugCommunitySkill
+IntProperty  /Script/AT.ATCheatManager:ATDebugCommunitySkill.Lv
+IntProperty  /Script/AT.ATCheatManager:ATDebugCommunitySkill.Category
 [ Index:00000B706] (Size:0x000B8) [UObject:000001E199C41F00] Function  /Script/AT.ATCheatManager:ATDebugCompleteQuest
 [ Index:00000B707] (Size:0x00070) [UObject:000001E199C23F10] NameProperty  /Script/AT.ATCheatManager:ATDebugCompleteQuest.QuestId
 [ Index:00000B708] (Size:0x000B8) [UObject:000001E199C41E40] Function  /Script/AT.ATCheatManager:ATDebugCompleteReplaying
