@@ -195,10 +195,10 @@ Function  /Script/AT.ATCheatManager:ATDebugCombinePartsSupportRight
 ByteProperty  /Script/AT.ATCheatManager:ATDebugCombinePartsSupportRight.form
 ByteProperty  /Script/AT.ATCheatManager:ATDebugCombinePartsSupportRight.variation
 Function  /Script/AT.ATCheatManager:ATDebugCombinePartsTarget
-[ Index:00000B6F3] (Size:0x00078) [UObject:000001E199C18400] ByteProperty  /Script/AT.ATCheatManager:ATDebugCombinePartsTarget.form
-[ Index:00000B6F4] (Size:0x00078) [UObject:000001E199C18380] ByteProperty  /Script/AT.ATCheatManager:ATDebugCombinePartsTarget.variation
-[ Index:00000B6F5] (Size:0x000B8) [UObject:000001E199C42500] Function  /Script/AT.ATCheatManager:ATDebugCommandPaletteChangeActive
-[ Index:00000B6F6] (Size:0x00070) [UObject:000001E199C24300] IntProperty  /Script/AT.ATCheatManager:ATDebugCommandPaletteChangeActive.IsOn
+ByteProperty  /Script/AT.ATCheatManager:ATDebugCombinePartsTarget.form
+ByteProperty  /Script/AT.ATCheatManager:ATDebugCombinePartsTarget.variation
+Function  /Script/AT.ATCheatManager:ATDebugCommandPaletteChangeActive
+IntProperty  /Script/AT.ATCheatManager:ATDebugCommandPaletteChangeActive.IsOn
 [ Index:00000B6F7] (Size:0x00070) [UObject:000001E199C24290] IntProperty  /Script/AT.ATCheatManager:ATDebugCommandPaletteChangeActive.idx
 [ Index:00000B6F8] (Size:0x000B8) [UObject:000001E199C42440] Function  /Script/AT.ATCheatManager:ATDebugCommandPaletteCoopSkill
 [ Index:00000B6F9] (Size:0x00070) [UObject:000001E199C24220] IntProperty  /Script/AT.ATCheatManager:ATDebugCommandPaletteCoopSkill.IsOn
