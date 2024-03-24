@@ -187,3 +187,34 @@ Function  /Script/AT.ATCheatManager:ATDebugClearSubQuest
 Function  /Script/AT.ATCheatManager:ATDebugCollectionOpen
 Function  /Script/AT.ATCheatManager:ATDebugCombineParts
 ByteProperty  /Script/AT.ATCheatManager:ATDebugCombineParts.form
+ByteProperty  /Script/AT.ATCheatManager:ATDebugCombineParts.variation
+Function  /Script/AT.ATCheatManager:ATDebugCombinePartsSupportLeft
+ByteProperty  /Script/AT.ATCheatManager:ATDebugCombinePartsSupportLeft.form
+ByteProperty  /Script/AT.ATCheatManager:ATDebugCombinePartsSupportLeft.variation
+[ Index:00000B6EF] (Size:0x000B8) [UObject:000001E199C42680] Function  /Script/AT.ATCheatManager:ATDebugCombinePartsSupportRight
+[ Index:00000B6F0] (Size:0x00078) [UObject:000001E199C16400] ByteProperty  /Script/AT.ATCheatManager:ATDebugCombinePartsSupportRight.form
+[ Index:00000B6F1] (Size:0x00078) [UObject:000001E199C16380] ByteProperty  /Script/AT.ATCheatManager:ATDebugCombinePartsSupportRight.variation
+[ Index:00000B6F2] (Size:0x000B8) [UObject:000001E199C425C0] Function  /Script/AT.ATCheatManager:ATDebugCombinePartsTarget
+[ Index:00000B6F3] (Size:0x00078) [UObject:000001E199C18400] ByteProperty  /Script/AT.ATCheatManager:ATDebugCombinePartsTarget.form
+[ Index:00000B6F4] (Size:0x00078) [UObject:000001E199C18380] ByteProperty  /Script/AT.ATCheatManager:ATDebugCombinePartsTarget.variation
+[ Index:00000B6F5] (Size:0x000B8) [UObject:000001E199C42500] Function  /Script/AT.ATCheatManager:ATDebugCommandPaletteChangeActive
+[ Index:00000B6F6] (Size:0x00070) [UObject:000001E199C24300] IntProperty  /Script/AT.ATCheatManager:ATDebugCommandPaletteChangeActive.IsOn
+[ Index:00000B6F7] (Size:0x00070) [UObject:000001E199C24290] IntProperty  /Script/AT.ATCheatManager:ATDebugCommandPaletteChangeActive.idx
+[ Index:00000B6F8] (Size:0x000B8) [UObject:000001E199C42440] Function  /Script/AT.ATCheatManager:ATDebugCommandPaletteCoopSkill
+[ Index:00000B6F9] (Size:0x00070) [UObject:000001E199C24220] IntProperty  /Script/AT.ATCheatManager:ATDebugCommandPaletteCoopSkill.IsOn
+[ Index:00000B6FA] (Size:0x000B8) [UObject:000001E199C42380] Function  /Script/AT.ATCheatManager:ATDebugCommCalc
+[ Index:00000B6FB] (Size:0x00070) [UObject:000001E199C241B0] FloatProperty  /Script/AT.ATCheatManager:ATDebugCommCalc.Rate
+[ Index:00000B6FC] (Size:0x00070) [UObject:000001E199C24140] IntProperty  /Script/AT.ATCheatManager:ATDebugCommCalc.Val
+[ Index:00000B6FD] (Size:0x000B8) [UObject:000001E199C422C0] Function  /Script/AT.ATCheatManager:ATDebugCommunityBoard
+[ Index:00000B6FE] (Size:0x000B8) [UObject:000001E199C42200] Function  /Script/AT.ATCheatManager:ATDebugCommunityBoardEdit
+[ Index:00000B6FF] (Size:0x00070) [UObject:000001E199C240D0] IntProperty  /Script/AT.ATCheatManager:ATDebugCommunityBoardEdit.cate
+[ Index:00000B700] (Size:0x000B8) [UObject:000001E199C42140] Function  /Script/AT.ATCheatManager:ATDebugCommunityCTest
+[ Index:00000B701] (Size:0x00070) [UObject:000001E199C24060] IntProperty  /Script/AT.ATCheatManager:ATDebugCommunityCTest.testId
+[ Index:00000B702] (Size:0x000B8) [UObject:000001E199C42080] Function  /Script/AT.ATCheatManager:ATDebugCommunityRankTest
+[ Index:00000B703] (Size:0x000B8) [UObject:000001E199C41FC0] Function  /Script/AT.ATCheatManager:ATDebugCommunitySkill
+[ Index:00000B704] (Size:0x00070) [UObject:000001E199C23FF0] IntProperty  /Script/AT.ATCheatManager:ATDebugCommunitySkill.Lv
+[ Index:00000B705] (Size:0x00070) [UObject:000001E199C23F80] IntProperty  /Script/AT.ATCheatManager:ATDebugCommunitySkill.Category
+[ Index:00000B706] (Size:0x000B8) [UObject:000001E199C41F00] Function  /Script/AT.ATCheatManager:ATDebugCompleteQuest
+[ Index:00000B707] (Size:0x00070) [UObject:000001E199C23F10] NameProperty  /Script/AT.ATCheatManager:ATDebugCompleteQuest.QuestId
+[ Index:00000B708] (Size:0x000B8) [UObject:000001E199C41E40] Function  /Script/AT.ATCheatManager:ATDebugCompleteReplaying
+[ Index:00000B709] (Size:0x000B8) [UObject:000001E199C41D80] Function  /Script/AT.ATCheatManager:ATDebugConsistencyCheckQuestCharacter
